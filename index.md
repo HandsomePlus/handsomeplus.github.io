@@ -1,6 +1,0 @@
-### [Note](./Notes)
-
-### Welcome
-
-
-
